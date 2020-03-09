@@ -9,8 +9,8 @@
 title:       ㄱㅐ발
 email:       'lee199402@gmail.com'
 description: ''
-baseurl:     'https://lhoyong.github.io' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         'https://lhoyong.github.io/' # The base hostname & protocol for your site
 twitter:     ''
 github:      'https://github.com/lhoyong'
 instagram:   ''
